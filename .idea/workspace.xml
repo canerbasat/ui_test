@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffab3248-e378-48af-96ef-81e270ae035e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/utils/TxtWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDataFiles/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSVData/deneme.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testDataFiles/response.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/hepsiburada/feature.cpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/driver/DriverCreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/driver/DriverCreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/driver/LocalBrowserExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/driver/LocalBrowserExec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/methods/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/methods/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/elementValues/elements.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/elementValues/elements.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/web_driver/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.6" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11 (2)" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="1g2vRs3hkXc7WVj82kIQacXRHlj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Attach to process.localhost:51991.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;Attach to process.localhost:59094.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;Attach to process.localhost:59194.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;Gauge Execution.HX Case (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.HX Case (2).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.HX Case (3).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.HX Case (4).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.HX Case.executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.Testinium Case1.executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case (2).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case (3).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case (4).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case (5).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case.executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case1 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case1 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case1.executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case2 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.gagHX Case2.executor&quot;: &quot;Debug&quot;,
+    &quot;Gauge Execution.gagHX Case3.executor&quot;: &quot;Run&quot;,
+    &quot;Gauge Execution.testSpec.spec (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Gauge Execution.testSpec.spec.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CartPage.giris.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CartPage.testYourFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DriverCreater.testYourFunctionality (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DriverCreater.testYourFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HomePage.acceptCookies.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testAutomation [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testAutomation [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testAutomation [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.testAutomation [test].executor&quot;: &quot;Run&quot;,
+    &quot;Remote JVM Debug..executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/caner/Documents/GitHub/HX_Ui/src/test/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gaugetest.driver" />
+      <recent name="com.gaugetest.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\caner\Documents\GitHub\HX_Ui\src\test\java" />
+      <recent name="C:\Users\canerTest\Desktop\23052021\gaugeTestAutomation\web_driver" />
+      <recent name="C:\Users\canerTest\Desktop\gaugeTestAutomation\web_driver" />
+      <recent name="$PROJECT_DIR$/web_driver" />
+      <recent name="C:\Users\Caner\Desktop\testgauge\web_driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\caner\Documents\GitHub\HX_Ui\testDataFiles" />
+      <recent name="C:\Users\caner\Documents\GitHub\HX_Ui\specs\hepsiburada" />
+      <recent name="C:\Users\caner\Documents\GitHub\HX_Ui\web_driver" />
+      <recent name="C:\Users\canerTest\Desktop\gaugeTestAutomation\CSVData" />
+      <recent name="C:\Users\caner.basat\Desktop\projects\ofixTest\src\test\resources\elementValues" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gaugetest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gaugetest.driver" />
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.Testinium Case1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartPage.giris" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaugetest.pages.pageObjectPattern.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaugetest.pages" />
+      <option name="MAIN_CLASS_NAME" value="com.gaugetest.pages.CartPage" />
+      <option name="METHOD_NAME" value="giris" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverCreater.testYourFunctionality (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaugetest.pages.pageObjectPattern.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaugetest.pages.pageObjectPattern.pages" />
+      <option name="MAIN_CLASS_NAME" value="com.gaugetest.pages.pageObjectPattern.pages.DriverCreater" />
+      <option name="METHOD_NAME" value="testYourFunctionality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testinium Case1" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gagHX Case1 (4)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gagHX Case1" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Testinium Case1" />
+        <item itemvalue="Gauge Execution.gagHX Case1" />
+        <item itemvalue="JUnit.DriverCreater.testYourFunctionality (1)" />
+        <item itemvalue="Gauge Execution.gagHX Case1 (4)" />
+        <item itemvalue="JUnit.CartPage.giris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="https://www.beymen.com/" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-3183f394aec4-f503fc68" />
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+        <option value="jdk-18.0.2-corretto-18.0.2-f644763e9732-da6bd485" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffab3248-e378-48af-96ef-81e270ae035e" name="Default Changelist" comment="" />
+      <created>1580506318237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580506318237</updated>
+      <workItem from="1580506334250" duration="172000" />
+      <workItem from="1580506524026" duration="2071000" />
+      <workItem from="1580508632996" duration="532000" />
+      <workItem from="1580509190877" duration="10013000" />
+      <workItem from="1580595683278" duration="758000" />
+      <workItem from="1597325500560" duration="131000" />
+      <workItem from="1597326813549" duration="1095000" />
+      <workItem from="1597328093662" duration="447000" />
+      <workItem from="1597388560615" duration="653000" />
+      <workItem from="1597575722657" duration="3009000" />
+      <workItem from="1597667319346" duration="1259000" />
+      <workItem from="1597746002687" duration="26000" />
+      <workItem from="1597746745054" duration="850000" />
+      <workItem from="1597761502445" duration="11655000" />
+      <workItem from="1597793719916" duration="371000" />
+      <workItem from="1597794340965" duration="304000" />
+      <workItem from="1597817852641" duration="5207000" />
+      <workItem from="1597910710571" duration="8690000" />
+      <workItem from="1597997026183" duration="1282000" />
+      <workItem from="1598001245729" duration="3746000" />
+      <workItem from="1598007637744" duration="193000" />
+      <workItem from="1600676688043" duration="180000" />
+      <workItem from="1600676893230" duration="9163000" />
+      <workItem from="1600766830549" duration="5959000" />
+      <workItem from="1600866248319" duration="179000" />
+      <workItem from="1600866552084" duration="95000" />
+      <workItem from="1600866672268" duration="10000" />
+      <workItem from="1600934967276" duration="8125000" />
+      <workItem from="1601045029596" duration="876000" />
+      <workItem from="1601047171219" duration="2476000" />
+      <workItem from="1601282295573" duration="190000" />
+      <workItem from="1601283342409" duration="10250000" />
+      <workItem from="1601365575995" duration="1689000" />
+      <workItem from="1601367472334" duration="3350000" />
+      <workItem from="1601376296439" duration="1434000" />
+      <workItem from="1601381715567" duration="12425000" />
+      <workItem from="1601467670559" duration="2064000" />
+      <workItem from="1601474911413" duration="41000" />
+      <workItem from="1601475157211" duration="2847000" />
+      <workItem from="1601541453395" duration="1100000" />
+      <workItem from="1601545166076" duration="695000" />
+      <workItem from="1601549433695" duration="408000" />
+      <workItem from="1601550901280" duration="11781000" />
+      <workItem from="1601990137094" duration="4675000" />
+      <workItem from="1602147292604" duration="6000" />
+      <workItem from="1602147330340" duration="723000" />
+      <workItem from="1602148154007" duration="148000" />
+      <workItem from="1602148326655" duration="7454000" />
+      <workItem from="1605097320967" duration="10921000" />
+      <workItem from="1606467448844" duration="309000" />
+      <workItem from="1607415574915" duration="1467000" />
+      <workItem from="1607417057102" duration="1143000" />
+      <workItem from="1607425584248" duration="4115000" />
+      <workItem from="1607608167036" duration="1094000" />
+      <workItem from="1607669934346" duration="63000" />
+      <workItem from="1607670009522" duration="635000" />
+      <workItem from="1607673243023" duration="1859000" />
+      <workItem from="1607765373311" duration="15809000" />
+      <workItem from="1607851406237" duration="94000" />
+      <workItem from="1607851517884" duration="5723000" />
+      <workItem from="1607928156121" duration="4464000" />
+      <workItem from="1608015174066" duration="602000" />
+      <workItem from="1608023652210" duration="2380000" />
+      <workItem from="1608100827252" duration="18623000" />
+      <workItem from="1608560767117" duration="3586000" />
+      <workItem from="1608792725301" duration="7078000" />
+      <workItem from="1608903837924" duration="3389000" />
+      <workItem from="1609241200905" duration="2093000" />
+      <workItem from="1609747347241" duration="2935000" />
+      <workItem from="1609845597771" duration="835000" />
+      <workItem from="1609931162158" duration="4421000" />
+      <workItem from="1609944643291" duration="193000" />
+      <workItem from="1610000778942" duration="599000" />
+      <workItem from="1610087895541" duration="602000" />
+      <workItem from="1611300352138" duration="469000" />
+      <workItem from="1611646345252" duration="2174000" />
+      <workItem from="1613386831969" duration="1277000" />
+      <workItem from="1613630243368" duration="9864000" />
+      <workItem from="1613717457842" duration="4838000" />
+      <workItem from="1614062349005" duration="6163000" />
+      <workItem from="1614150034009" duration="4390000" />
+      <workItem from="1614258335090" duration="1445000" />
+      <workItem from="1614321326898" duration="3439000" />
+      <workItem from="1617389022947" duration="2711000" />
+      <workItem from="1622124448501" duration="2507000" />
+      <workItem from="1628518216147" duration="239000" />
+      <workItem from="1631004488345" duration="1112000" />
+      <workItem from="1631184224565" duration="14166000" />
+      <workItem from="1631204143576" duration="82000" />
+      <workItem from="1631204584293" duration="78000" />
+      <workItem from="1631204779773" duration="67000" />
+      <workItem from="1631204900416" duration="2560000" />
+      <workItem from="1631252929824" duration="220000" />
+      <workItem from="1705496297910" duration="1482000" />
+      <workItem from="1705499138159" duration="976000" />
+      <workItem from="1705500131040" duration="233000" />
+      <workItem from="1705500446346" duration="343000" />
+      <workItem from="1705500843859" duration="1831000" />
+      <workItem from="1705512919508" duration="1671000" />
+      <workItem from="1705514629184" duration="1550000" />
+      <workItem from="1705578298395" duration="5482000" />
+      <workItem from="1705589293166" duration="2883000" />
+      <workItem from="1705594256771" duration="1135000" />
+      <workItem from="1705840670295" duration="22734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/DriverCreater.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/DriverCreater.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/methods/Methods.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/utils/ExcelReader.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/SetBrowserForOS.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/SetBrowserForOS.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/SetBrowserForOS.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/LocalBrowserExec.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/pages/pageObjectPattern/pages/DriverCreater.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/utils/ReadProperties.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/utils/ReadProperties.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/pages/pageObjectPattern/pages/DriverCreater.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/pages/pageObjectPattern/pages/DriverCreater.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/DriverCreater.java</url>
+          <line>28</line>
+          <properties field="baseUrl" class="com.gaugetest.driver.DriverCreater" />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/driver/LocalBrowserExec.java</url>
+          <line>29</line>
+          <properties field="driver" class="com.gaugetest.driver.LocalBrowserExec" />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,87 @@
+[
+  {
+    "key": "btn_Accept_Cookies",
+    "value": "button[id='onetrust-accept-btn-handler']",
+    "type": "css"
+  },
+  {
+    "key": "btn_Gender_Choose_Man",
+    "value": "button[id='genderManButton']",
+    "type": "css"
+  },
+  {
+    "key": "tb_Search_Input",
+    "value": "div[class='o-header__search--wrapper'] > input",
+    "type": "css"
+  },
+  {
+    "key": "btn_FocusedSearchArea_Input",
+    "value": "input[id='o-searchSuggestion__input']",
+    "type": "css"
+  },
+  {
+    "key": "btn_SearchArea_Clear",
+    "value": "button[class='o-header__search--close -hasButton']",
+    "type": "css"
+  },
+  {
+    "key": "btn_List_SearchPage_Products",
+    "value": "div[class='m-productCard__photo'] ",
+    "type": "css"
+  },
+  {
+    "key": "txt_Product_Brand",
+    "value": "a[class='o-productDetail__brandLink']",
+    "type": "css"
+  },
+  {
+    "key": "txt_Product_Name",
+    "value": "span[class='o-productDetail__description']",
+    "type": "css"
+  },
+  {
+    "key": "txt_Product_Price",
+    "value": "ins[id='priceNew']",
+    "type": "css"
+  },
+  {
+    "key": "btn_List_Enabled_Variations",
+    "value": "//span[contains(@class, 'm-variation__item') and not(contains(@class, '-disabled'))]",
+    "type": "xpath"
+  },
+  {
+    "key": "btn_AddBasket",
+    "value": "button[id='addBasket']",
+    "type": "css"
+  },
+  {
+    "key": "btn_ProducAddedNotif_Close",
+    "value": "button[class='m-notification__close bwi-close']",
+    "type": "css"
+  },
+  {
+    "key": "btn_Cart",
+    "value": "a[href='/cart']",
+    "type": "css"
+  },
+  {
+    "key": "txt_Cart_ProductPrice",
+    "value": "span[class='m-productPrice__salePrice']",
+    "type": "css"
+  },
+  {
+    "key": "sb_Product_Quantity",
+    "value": "div[class='m-select -small'] > select",
+    "type": "css"
+  },
+  {
+    "key": "txt_Empty_Cart",
+    "value": "div[id='emtyCart']",
+    "type": "css"
+  },
+  {
+    "key": "btn_Remove_Product_Cart",
+    "value": "button[id='removeCartItemBtn0-key-0']",
+    "type": "css"
+  }
+]
